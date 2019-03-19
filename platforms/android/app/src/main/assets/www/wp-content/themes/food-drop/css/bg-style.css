@@ -1,0 +1,239 @@
+
+.style_bg {
+    border: 30px solid #f4f2ee;
+    background-color: #f4f2ee;
+    padding: 20px;
+    -moz-border-image: url(../images/bg-1.png) 30 30 30 30 round;
+    -webkit-border-image: url(../images/bg-1.png) 30 30 30 30 round;
+    -o-border-image: url(../mages/bg-1.html) 30 30 30 30 round;
+    border-image: url(../images/bg-1.png) 30 30 30 30 round;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -moz-background-clip: padding-box;
+    -webkit-background-clip: padding-box;
+    -o-background-clip: padding-box;
+    background-clip: padding-box;
+}
+
+/* Blockquotes*/
+blockquote {
+    border: 30px solid #5dc2d7;
+    background-color: #5dc2d7;
+    -moz-border-image: url(../images/bg-blockquotes.png) 30 30 30 30 round;
+    -webkit-border-image: url(../images/bg-blockquotes.png) 30 30 30 30 round;
+    -o-border-image: url(../images/bg-blockquotes.png) 30 30 30 30 round;
+    border-image: url(../images/bg-blockquotes.png) 30 30 30 30 round;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -moz-background-clip: padding-box;
+    -webkit-background-clip: padding-box;
+    -o-background-clip: padding-box;
+    background-clip: padding-box;
+}
+blockquote:before {
+    background-image: url(../images/blockquotes.png);
+    background-repeat: no-repeat;
+}
+
+.format-audio .post_featured.without_thumb .post_audio,
+.trx_addons_audio_player.without_cover {
+    border: 30px solid #f4f2ee;
+    background-color: #f4f2ee;
+    padding: 8px 22px;
+    -moz-border-image: url(../images/bg-1.png) 30 30 30 30 round;
+    -webkit-border-image: url(../images/bg-1.png) 30 30 30 30 round;
+    -o-border-image: url(../images/bg-1.png) 30 30 30 30 round;
+    border-image: url(../images/bg-1.png) 30 30 30 30 round;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -moz-background-clip: padding-box;
+    -webkit-background-clip: padding-box;
+    -o-background-clip: padding-box;
+    background-clip: padding-box;
+}
+
+
+
+.sc_price {
+    border: 35px solid #e8f6f9;
+    background-color: #e8f6f9;
+    padding: 0;
+    -moz-border-image: url(../images/bg-2.png) 32 32 32 32 round;
+    -webkit-border-image: url(../images/bg-2.png) 32 32 32 32 round;
+    -o-border-image: url(../images/bg-2.png) 32 32 32 32 round;
+    border-image: url(../images/bg-2.png) 32 32 32 32 round;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -moz-background-clip: padding-box;
+    -webkit-background-clip: padding-box;
+    -o-background-clip: padding-box;
+    background-clip: padding-box;
+    position: relative;
+}
+.sc_price.sc_price_label .label {
+    background-image: url(../images/popular-label.png);
+    background-repeat: no-repeat;
+}
+
+.trx_addons_dropcap_style_1 {
+    background-image:url(../images/dropcaps_1.png);
+}
+.trx_addons_dropcap_style_2 {
+    background-image:url(../images/dropcaps_2.png);
+}
+
+
+.sc_layouts_menu_mobile_button.sc_layouts_menu_mobile_button_burger .sc_layouts_item_icon {
+    background-image:url(../images/menu-bg.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.menu_mobile_close,
+.scheme_dark .sc_layouts_menu_mobile_button.sc_layouts_menu_mobile_button_burger .sc_layouts_item_icon {
+    background-image:url(../images/menu-bg-light.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+
+.menu_side_inner #toc_menu {
+    border: 20px solid #edebe4;
+    background-color: #edebe4;
+    padding: 10px 0;
+    -moz-border-image: url(../images/side-menu-bg.png) 20 20 20 20 round;
+    -webkit-border-image: url(../images/side-menu-bg.png) 20 20 20 20 round;
+    -o-border-image: url(../images/side-menu-bg.png) 20 20 20 20 round;
+    border-image: url(../images/side-menu-bg.png) 20 20 20 20 round;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -moz-background-clip: padding-box;
+    -webkit-background-clip: padding-box;
+    -o-background-clip: padding-box;
+    background-clip: padding-box;
+    position: relative;
+}
+
+
+
+.toc_menu .toc_menu_item .toc_menu_description {
+    border: 7px solid #bac64a;
+    background-color: #bac64a;
+    padding: 0 18px;
+    -moz-border-image: url(../images/side-menu-bg-title.png) 7 7 7 7 round;
+    -webkit-border-image: url(../images/side-menu-bg-title.png) 7 7 7 7 round;
+    -o-border-image: url(../images/side-menu-bg-title.png) 7 7 7 7 round;
+    border-image: url(../images/side-menu-bg-title.png) 7 7 7 7 round;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -moz-background-clip: padding-box;
+    -webkit-background-clip: padding-box;
+    -o-background-clip: padding-box;
+    background-clip: padding-box;
+}
+
+.search.search-no-results .page_content_wrap,
+.error404 .page_content_wrap {
+    background-image:url(../images/404.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.page_links > span:not(.page_links_title),
+.page_links > a,
+.comments_pagination .page-numbers,
+.nav-links .page-numbers {
+    background-image:url(../images/pagination.png);
+    background-position: center 100px;
+    background-repeat: no-repeat;
+}
+.page_links > a:hover,
+.page_links > span:not(.page_links_title),
+.comments_pagination a.page-numbers:hover,
+.comments_pagination .page-numbers.current,
+.nav-links a.page-numbers:hover,
+.nav-links .page-numbers.current {
+    background-position: center 0;
+}
+
+.sc_team_short .sc_team_item_thumb .sc_team_item_socials .social_item a,
+.widget.widget_socials .social_item a,
+.post_item_single .post_content > .post_meta_single .post_share .social_item a {
+    background-image:url(../images/social.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+
+
+.author_info {
+    border: 30px solid #f4f2ee;
+    background-color: #f4f2ee;
+    -moz-border-image: url(../images/bg-1.png) 30 30 30 30 round;
+    -webkit-border-image: url(../images/bg-1.png) 30 30 30 30 round;
+    -o-border-image: url(../images/bg-1.png) 30 30 30 30 round;
+    border-image: url(../images/bg-1.png) 30 30 30 30 round;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -moz-background-clip: padding-box;
+    -webkit-background-clip: padding-box;
+    -o-background-clip: padding-box;
+    background-clip: padding-box;
+}
+
+
+
+body .vc_tta.vc_tta-accordion .vc_tta-panel.vc_active .vc_tta-panel-heading,
+body .vc_tta.vc_tta-accordion .vc_tta-panels .vc_tta-panel-heading {
+    border: 14px solid #f4f2ee;
+    background-color: #f4f2ee !important;
+    padding: 0;
+    -moz-border-image: url(../images/bg-1.png) 25 25 25 25 round;
+    -webkit-border-image: url(../images/bg-1.png) 25 25 25 25 round;
+    -o-border-image: url(../images/bg-1.png) 25 25 25 25 round;
+    border-image: url(../images/bg-1.png) 25 25 25 25 round;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -moz-background-clip: padding-box;
+    -webkit-background-clip: padding-box;
+    -o-background-clip: padding-box;
+    background-clip: padding-box;
+}
+
+.vc_toggle_default .vc_toggle_title {
+    border: 20px solid #ffffff;
+    background-color: #ffffff !important;
+    padding: 8px;
+    -moz-border-image: url(../images/toggle-bg.png) 25 25 25 25 round;
+    -webkit-border-image: url(../images/toggle-bg.png) 25 25 25 25 round;
+    -o-border-image: url(../images/toggle-bg.png) 25 25 25 25 round;
+    border-image: url(../images/toggle-bg.png) 25 25 25 25 round;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -moz-background-clip: padding-box;
+    -webkit-background-clip: padding-box;
+    -o-background-clip: padding-box;
+    background-clip: padding-box;
+}
+
+.vc_toggle_default.vc_toggle_active .vc_toggle_icon,
+.vc_toggle_default .vc_toggle_icon {
+    background-image:url(../images/toggle%2b.png), url(../images/toggle-.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: auto, 0;
+}
+.vc_toggle_default.vc_toggle_active .vc_toggle_icon{
+    background-image: url(../images/toggle-.png);
+    background-size: auto;
+}

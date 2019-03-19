@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'nexa_rust_script';
+    src: url('NexaRustScriptL-0-Free-webfont.eot');
+    src: url('NexaRustScriptL-0-Free-webfontd41d.eot?#iefix') format('embedded-opentype'),
+         url('NexaRustScriptL-0-Free-webfont.woff2') format('woff2'),
+         url('NexaRustScriptL-0-Free-webfont.woff') format('woff'),
+         url('NexaRustScriptL-0-Free-webfont.ttf') format('truetype'),
+         url('NexaRustScriptL-0-Free-webfont.svg#nexa_rust_script_l0regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
